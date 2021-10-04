@@ -1,0 +1,17 @@
+body{
+    margin-top:12px;
+}
+table.table-tkb td, table.table-tkb th{
+    vertical-align: middle;
+    text-align: center;
+}
+table.table-tkb tbody td{
+    vertical-align: top;
+}
+.tkb-break{
+    padding-bottom: 5px;
+    border-bottom: thin solid rgb(209, 209, 209);
+}
+.tkb-break-last{
+    border-bottom: none;
+}
